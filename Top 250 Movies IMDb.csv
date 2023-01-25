@@ -1,0 +1,251 @@
+movie_name,year,runtime(min),genre,rating,metascore,votes,gross($)(M),rank
+The Shawshank Redemption,1994,142,Drama,9.3,81,2673004,28.34,1
+The Godfather,1972,175,"Crime, Drama",9.2,100,1852578,134.97,2
+The Dark Knight,2008,152,"Action, Crime, Drama",9.0,84,2645938,534.86,3
+The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama",9.0,94,1842128,377.85,7
+Schindler's List,1993,195,"Biography, Drama, History",9.0,94,1353145,96.90,6
+The Godfather Part II,1974,202,"Crime, Drama",9.0,90,1268430,57.30,4
+12 Angry Men,1957,96,"Crime, Drama",9.0,96,789547,4.36,5
+Pulp Fiction,1994,154,"Crime, Drama",8.9,94,2048134,107.93,8
+Jai Bhim,2021,164,"Crime, Drama, Mystery",8.8,,202100,,229
+Inception,2010,148,"Action, Adventure, Sci-Fi",8.8,74,2345457,292.58,14
+The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama",8.8,87,1663377,342.55,13
+Fight Club,1999,139,Drama,8.8,66,2118493,37.03,12
+The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama",8.8,92,1871367,315.54,9
+Forrest Gump,1994,142,"Drama, Romance",8.8,82,2072856,330.25,11
+"Il buono, il brutto, il cattivo",1966,161,"Adventure, Western",8.8,90,761344,6.10,10
+The Matrix,1999,136,"Action, Sci-Fi",8.7,73,1909202,171.48,16
+Goodfellas,1990,145,"Biography, Crime, Drama",8.7,91,1158963,46.84,17
+The Empire Strikes Back,1980,124,"Action, Adventure, Fantasy",8.7,82,1290373,290.48,15
+One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,84,1007250,112.00,18
+Interstellar,2014,169,"Adventure, Drama, Sci-Fi",8.6,74,1822295,188.02,26
+Cidade de Deus,2002,130,"Crime, Drama",8.6,79,756819,7.56,23
+Sen to Chihiro no kamikakushi,2001,125,"Animation, Adventure, Family",8.6,96,762414,10.06,31
+Saving Private Ryan,1998,169,"Drama, War",8.6,91,1389135,216.54,24
+The Green Mile,1999,189,"Crime, Drama, Fantasy",8.6,61,1299210,136.80,27
+La vita è bella,1997,116,"Comedy, Drama, Romance",8.6,59,694745,57.60,25
+Se7en,1995,127,"Crime, Drama, Mystery",8.6,65,1648313,100.13,19
+Terminator 2: Judgment Day,1991,137,"Action, Sci-Fi",8.6,75,1097935,204.84,29
+The Silence of the Lambs,1991,118,"Crime, Drama, Thriller",8.6,85,1430149,130.74,22
+Star Wars,1977,121,"Action, Adventure, Fantasy",8.6,90,1362969,322.74,28
+Seppuku,1962,133,"Action, Drama, Mystery",8.6,85,57716,,44
+Shichinin no samurai,1954,207,"Action, Drama",8.6,98,346574,0.27,20
+It's a Wonderful Life,1946,130,"Drama, Family, Fantasy",8.6,89,457666,,21
+Gisaengchung,2019,132,"Drama, Thriller",8.5,96,798972,53.37,34
+Whiplash,2014,106,"Drama, Music",8.5,89,858367,13.09,42
+The Intouchables,2011,112,"Biography, Comedy, Drama",8.5,57,857452,13.18,46
+The Prestige,2006,130,"Drama, Mystery, Sci-Fi",8.5,66,1331012,53.09,41
+The Departed,2006,151,"Crime, Drama, Thriller",8.5,85,1323362,132.38,39
+The Pianist,2002,150,"Biography, Drama, Music",8.5,85,831336,32.57,33
+Gladiator,2000,155,"Action, Adventure, Drama",8.5,67,1497718,187.71,37
+American History X,1998,119,"Crime, Drama",8.5,62,1121729,6.72,38
+The Usual Suspects,1995,106,"Crime, Drama, Mystery",8.5,77,1084652,23.34,40
+Léon,1994,110,"Action, Crime, Drama",8.5,64,1159443,19.50,35
+The Lion King,1994,88,"Animation, Adventure, Drama",8.5,88,1056678,422.78,36
+Nuovo Cinema Paradiso,1988,155,"Drama, Romance",8.5,80,261939,11.99,50
+Hotaru no haka,1988,89,"Animation, Drama, War",8.5,94,278084,,45
+Back to the Future,1985,116,"Adventure, Comedy, Sci-Fi",8.5,87,1203022,210.61,30
+Apocalypse Now,1979,147,"Drama, Mystery, War",8.5,94,667799,83.47,53
+Alien,1979,117,"Horror, Sci-Fi",8.5,89,882244,78.90,51
+Once Upon a Time in the West,1968,165,Western,8.5,80,330372,5.32,48
+Psycho,1960,109,"Horror, Mystery, Thriller",8.5,97,672257,32.00,32
+Rear Window,1954,112,"Mystery, Thriller",8.5,100,492399,36.76,49
+Casablanca,1942,102,"Drama, Romance, War",8.5,100,572336,1.02,43
+Modern Times,1936,87,"Comedy, Drama, Romance",8.5,96,243354,0.16,47
+City Lights,1931,87,"Comedy, Drama, Romance",8.5,99,185535,0.02,52
+Hamilton,2020,160,"Biography, Drama, History",8.4,89,95151,,107
+Capharnaüm,2018,126,Drama,8.4,75,90439,1.66,90
+Joker, 2019,122,"Crime, Drama, Thriller",8.4,59,1278206,335.45,73
+Kimi no Na wa.,2016,106,"Animation, Drama, Fantasy",8.4,79,269123,5.02,82
+Spider-Man: Into the Spider-Verse,2018,117,"Animation, Action, Adventure",8.4,87,527854,190.24,66
+Avengers: Endgame,2019,181,"Action, Adventure, Drama",8.4,78,1126317,858.37,78
+Avengers: Infinity War,2018,149,"Action, Adventure, Sci-Fi",8.4,68,1077316,678.82,63
+Coco, 2017,105,"Animation, Adventure, Comedy",8.4,81,507444,209.73,74
+Django Unchained,2012,165,"Drama, Western",8.4,81,1549898,162.81,56
+Top Gun: Maverick,2022,130,"Action, Drama",8.4,78,449944,,83
+The Dark Knight Rises,2012,164,"Action, Drama",8.4,78,1701954,448.14,69
+3 Idiots,2009,170,"Comedy, Drama",8.4,67,401186,6.53,85
+Taare Zameen Par,2007,165,"Drama, Family",8.4,,194343,1.22,122
+WALL·E,2008,98,"Animation, Adventure, Family",8.4,95,1114762,223.81,57
+The Lives of Others,2006,137,"Drama, Mystery, Thriller",8.4,89,390563,11.29,58
+Oldeuboi,2003,120,"Action, Drama, Mystery",8.4,77,579892,0.71,70
+Memento,2000,113,"Mystery, Thriller",8.4,80,1237029,25.54,54
+American Beauty,1999,122,Drama,8.4,84,1154724,130.10,67
+Mononoke-hime,1997,134,"Animation, Action, Adventure",8.4,76,395469,2.38,79
+Braveheart,1995,178,"Biography, Drama, History",8.4,68,1037607,75.60,76
+Idi i smotri,1985,142,"Drama, Thriller, War",8.4,,80889,,95
+Aliens,1986,137,"Action, Adventure, Sci-Fi",8.4,84,718156,85.16,65
+Amadeus,1984,160,"Biography, Drama, Music",8.4,88,402101,51.97,71
+Raiders of the Lost Ark,1981,115,"Action, Adventure",8.4,85,965587,248.16,55
+Das Boot,1981,149,"Drama, War",8.4,86,251979,11.49,77
+The Shining,1980,146,"Drama, Horror",8.4,66,1021534,44.02,61
+Tengoku to jigoku,1963,143,"Crime, Drama, Mystery",8.4,90,45615,,88
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,"Comedy, War",8.4,97,491973,0.28,68
+Witness for the Prosecution,1957,116,"Crime, Drama, Mystery",8.4,76,126300,8.18,64
+Paths of Glory,1957,88,"Drama, War",8.4,90,198323,,60
+Sunset Blvd.,1950,110,"Drama, Film-Noir",8.4,,222903,,59
+The Great Dictator,1940,125,"Comedy, Drama, War",8.4,,224810,0.29,62
+Dangal,2016,161,"Action, Biography, Drama",8.3,,192119,12.39,126
+Jagten,2012,115,Drama,8.3,77,331261,0.69,94
+Jodaeiye Nader az Simin,2011,123,Drama,8.3,95,246027,7.10,115
+Incendies,2010,131,"Drama, Mystery",8.3,80,178769,6.86,111
+Spider-Man: No Way Home,2021,148,"Action, Adventure, Fantasy",8.3,71,750960,804.75,147
+Up,2009,96,"Animation, Adventure, Comedy",8.3,88,1043174,293.00,112
+Toy Story 3,2010,103,"Animation, Adventure, Comedy",8.3,92,836144,415.00,87
+Inglourious Basterds,2009,153,"Adventure, Drama, War",8.3,69,1445873,120.54,72
+Eternal Sunshine of the Spotless Mind,2004,108,"Drama, Romance, Sci-Fi",8.3,89,1007373,34.40,91
+Le fabuleux destin d'Amélie Poulain,2001,122,"Comedy, Romance",8.3,69,757466,33.23,101
+Requiem for a Dream,2000,102,Drama,8.3,68,842368,3.64,84
+Good Will Hunting,1997,126,"Drama, Romance",8.3,70,968552,138.43,81
+Toy Story,1995,81,"Animation, Adventure, Comedy",8.3,95,993057,191.80,75
+Heat,1995,170,"Action, Crime, Drama",8.3,76,655227,67.44,113
+Reservoir Dogs,1992,99,"Crime, Thriller",8.3,79,1017619,2.83,93
+Full Metal Jacket,1987,116,"Drama, War",8.3,76,743354,46.36,106
+Once Upon a Time in America,1984,229,"Crime, Drama",8.3,75,353012,5.32,80
+Scarface,1983,170,"Crime, Drama",8.3,65,841013,45.60,108
+Star Wars: Episode VI - Return of the Jedi,1983,131,"Action, Adventure, Fantasy",8.3,58,1053124,309.13,89
+The Sting,1973,129,"Comedy, Crime, Drama",8.3,83,263426,159.60,110
+A Clockwork Orange,1971,136,"Crime, Sci-Fi",8.3,77,830441,6.21,102
+2001: A Space Odyssey,1968,149,"Adventure, Sci-Fi",8.3,84,669535,56.95,92
+To Kill a Mockingbird,1962,129,"Crime, Drama",8.3,88,317686,,109
+Lawrence of Arabia,1962,218,"Adventure, Biography, Drama",8.3,100,294945,44.82,98
+Judgment at Nuremberg,1961,179,"Drama, War",8.3,60,78353,,134
+The Apartment,1960,125,"Comedy, Drama, Romance",8.3,94,182609,18.60,103
+North by Northwest,1959,136,"Action, Adventure, Mystery",8.3,98,329154,13.28,99
+Vertigo,1958,128,"Mystery, Romance, Thriller",8.3,100,403444,3.20,100
+Pather Panchali,1955,125,Drama,8.3,,33562,0.54,219
+Singin' in the Rain,1952,103,"Comedy, Musical, Romance",8.3,99,243550,8.82,86
+Ikiru,1952,143,Drama,8.3,91,79332,0.06,104
+Ladri di biciclette,1948,89,Drama,8.3,,164506,0.33,120
+Double Indemnity,1944,107,"Crime, Drama, Film-Noir",8.3,95,158361,5.72,105
+Citizen Kane,1941,119,"Drama, Mystery",8.3,100,443175,1.59,96
+M - Eine Stadt sucht einen Mörder,1931,117,"Crime, Mystery, Thriller",8.3,,158962,0.03,97
+Metropolis,1927,153,"Drama, Sci-Fi",8.3,98,175327,1.24,116
+The Kid,1921,68,"Comedy, Drama, Family",8.3,,127227,5.45,128
+1917,2019,119,"Action, Drama, War",8.2,78,588067,159.23,123
+Green Book,2018,130,"Biography, Comedy, Drama",8.2,69,491548,85.08,132
+Inside Out, 2015,95,"Animation, Adventure, Comedy",8.2,94,713547,356.46,160
+El secreto de sus ojos,2009,129,"Drama, Mystery, Romance",8.2,80,210764,6.39,163
+Warrior,2011,140,"Action, Drama, Sport",8.2,71,473724,13.66,168
+Shutter Island,2010,138,"Mystery, Thriller",8.2,63,1311438,128.01,143
+The Father, 2020,97,"Drama, Mystery",8.2,88,154029,,130
+The Wolf of Wall Street,2013,180,"Biography, Comedy, Crime",8.2,75,1405590,116.90,133
+No Country for Old Men,2007,122,"Crime, Drama, Thriller",8.2,92,972739,74.28,152
+Babam ve Oglum,2005,112,"Drama, Family",8.2,,87293,,233
+There Will Be Blood,2007,158,Drama,8.2,93,587605,40.22,139
+Pan's Labyrinth,2006,118,"Drama, Fantasy, War",8.2,98,670174,37.63,137
+V for Vendetta,2005,132,"Action, Drama, Sci-Fi",8.2,62,1122308,70.51,158
+Batman Begins,2005,140,"Action, Crime, Drama",8.2,70,1468906,206.85,127
+Der Untergang,2004,156,"Biography, Drama, History",8.2,82,356936,5.51,124
+Hauru no ugoku shiro,2004,119,"Animation, Adventure, Family",8.2,80,396223,4.71,164
+A Beautiful Mind,2001,135,"Biography, Drama",8.2,72,932814,170.74,142
+Kill Bill: Vol. 1,2003,111,"Action, Crime, Drama",8.2,69,1115029,70.10,151
+Finding Nemo,2003,100,"Animation, Adventure, Comedy",8.2,90,1043212,380.84,153
+Snatch,2000,104,"Comedy, Crime",8.2,55,856496,30.33,119
+The Sixth Sense,1999,107,"Drama, Mystery, Thriller",8.2,64,992139,293.51,141
+"Lock, Stock and Two Smoking Barrels",1998,107,"Action, Comedy, Crime",8.2,66,583350,3.90,161
+The Truman Show,1998,103,"Comedy, Drama",8.2,90,1080082,125.62,140
+L.A. Confidential,1997,138,"Crime, Drama, Mystery",8.2,90,584132,64.62,117
+Bacheha-Ye aseman,1997,89,"Drama, Family, Sport",8.2,77,75441,0.93,175
+Casino,1995,178,"Crime, Drama",8.2,73,521276,42.44,136
+Jurassic Park,1993,127,"Action, Adventure, Sci-Fi",8.2,68,987787,402.45,148
+Unforgiven,1992,130,"Drama, Western",8.2,85,413330,101.16,138
+Indiana Jones and the Last Crusade,1989,127,"Action, Adventure",8.2,65,755285,197.17,121
+Die Hard,1988,132,"Action, Thriller",8.2,72,878035,83.01,118
+Ran,1985,162,"Action, Drama, War",8.2,96,126570,4.14,135
+The Thing,1982,109,"Horror, Mystery, Sci-Fi",8.2,57,426763,13.78,154
+Raging Bull,1980,129,"Biography, Drama, Sport",8.2,89,355431,23.38,157
+The Elephant Man,1980,124,"Biography, Drama",8.2,78,242571,,155
+Taxi Driver,1976,114,"Crime, Drama",8.2,94,832479,28.26,114
+Monty Python and the Holy Grail,1975,91,"Adventure, Comedy, Fantasy",8.2,91,542713,1.23,145
+Dersu Uzala,1975,142,"Adventure, Biography, Drama",8.2,,30337,,245
+Chinatown,1974,130,"Drama, Mystery, Thriller",8.2,92,328024,8.49,156
+Per qualche dollaro in più,1965,132,Western,8.2,74,257924,15.00,125
+The Great Escape,1963,172,"Adventure, Drama, History",8.2,86,245617,12.10,149
+Yôjinbô,1961,110,"Action, Drama, Thriller",8.2,93,123787,,144
+Some Like It Hot,1959,121,"Comedy, Music, Romance",8.2,98,268384,25.00,129
+The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.2,87,221930,44.91,165
+Dial M for Murder,1954,105,"Crime, Thriller",8.2,75,177066,0.01,162
+Tôkyô monogatari,1953,136,Drama,8.2,,62465,,208
+Le salaire de la peur,1953,131,"Adventure, Drama, Thriller",8.2,85,61883,,192
+Rashômon,1950,88,"Crime, Drama, Mystery",8.2,98,169593,0.10,150
+All About Eve,1950,138,Drama,8.2,98,132179,0.01,131
+The Treasure of the Sierra Madre,1948,126,"Adventure, Drama, Western",8.2,98,125807,5.01,146
+To Be or Not to Be,1942,99,"Comedy, Romance, War",8.2,86,38046,,227
+Gone with the Wind,1939,238,"Drama, Romance, War",8.2,97,316729,198.68,159
+La passion de Jeanne d'Arc,1928,110,"Biography, Drama, History",8.2,,55580,0.02,207
+The General,1926,67,"Action, Adventure, Comedy",8.2,,92264,1.03,186
+The Gold Rush,1925,95,"Adventure, Comedy, Drama",8.2,,112200,5.45,177
+Sherlock Jr.,1924,45,"Action, Comedy, Romance",8.2,,50775,0.98,194
+Everything Everywhere All at Once,2022,139,"Action, Adventure, Comedy",8.1,81,254941,,246
+"Three Billboards Outside Ebbing, Missouri",2017,115,"Comedy, Crime, Drama",8.1,88,507670,54.51,166
+Klaus,2019,96,"Animation, Adventure, Comedy",8.1,65,153359,,190
+Ah-ga-ssi,2016,145,"Drama, Romance, Thriller",8.1,84,148749,2.01,240
+Logan,2017,137,"Action, Drama, Sci-Fi",8.1,77,763133,226.28,217
+Room, 2015,118,"Drama, Thriller",8.1,86,421873,14.68,200
+Relatos salvajes,2014,122,"Comedy, Drama, Thriller",8.1,77,199517,3.11,197
+The Grand Budapest Hotel,2014,99,"Adventure, Comedy, Crime",8.1,88,809414,59.10,187
+Gone Girl,2014,149,"Drama, Mystery, Thriller",8.1,79,982112,167.77,184
+Hacksaw Ridge,2016,139,"Biography, Drama, History",8.1,71,526229,67.21,193
+12 Years a Slave,2013,134,"Biography, Drama, History",8.1,96,701829,56.67,180
+Rush, 2013,123,"Action, Biography, Drama",8.1,74,481032,26.95,218
+Ford v Ferrari,2019,152,"Action, Biography, Drama",8.1,81,394158,117.62,210
+Spotlight, 2015,129,"Biography, Crime, Drama",8.1,93,470955,45.06,213
+The Help,2011,146,Drama,8.1,62,460540,169.71,248
+Prisoners,2013,153,"Crime, Drama, Mystery",8.1,70,713496,61.00,170
+Mad Max: Fury Road,2015,120,"Action, Adventure, Sci-Fi",8.1,90,1001857,154.06,199
+Gran Torino,2008,116,Drama,8.1,72,776671,148.10,171
+Harry Potter and the Deathly Hallows - Part 2,2011,130,"Adventure, Family, Fantasy",8.1,85,874686,381.01,181
+Hachi: A Dog's Tale,2009,93,"Biography, Drama, Family",8.1,,286364,,231
+Mary and Max.,2009,92,"Animation, Comedy, Drama",8.1,,178137,,201
+How to Train Your Dragon,2010,98,"Animation, Action, Adventure",8.1,75,740636,217.58,202
+Into the Wild,2007,148,"Adventure, Biography, Drama",8.1,73,624369,18.35,221
+Million Dollar Baby,2004,132,"Drama, Sport",8.1,86,688290,100.49,174
+Hotel Rwanda,2004,121,"Biography, Drama, History",8.1,79,356792,23.53,209
+Ratatouille,2007,111,"Animation, Adventure, Comedy",8.1,96,737003,206.45,216
+Before Sunset,2004,80,"Drama, Romance",8.1,90,265533,5.82,223
+Salinui chueok,2003,131,"Crime, Drama, Mystery",8.1,82,185587,0.01,196
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,"Action, Adventure, Fantasy",8.1,63,1126812,305.41,234
+Catch Me If You Can,2002,141,"Biography, Crime, Drama",8.1,75,981558,164.62,173
+Amores perros,2000,154,"Drama, Thriller",8.1,83,241599,5.38,237
+"Monsters, Inc.",2001,92,"Animation, Adventure, Comedy",8.1,79,908907,289.92,203
+The Iron Giant,1999,86,"Animation, Action, Adventure",8.1,85,199741,23.16,247
+The Big Lebowski,1998,117,"Comedy, Crime",8.1,71,809328,17.50,204
+Trainspotting,1996,93,Drama,8.1,83,688226,16.50,167
+Fargo,1996,98,"Crime, Thriller",8.1,85,679035,24.61,169
+La haine,1995,98,"Crime, Drama",8.1,,175137,0.31,232
+Before Sunrise,1995,101,"Drama, Romance",8.1,77,309572,5.54,179
+In the Name of the Father,1993,133,"Biography, Crime, Drama",8.1,84,176291,25.01,189
+Groundhog Day,1993,101,"Comedy, Drama, Fantasy",8.1,72,632479,70.91,224
+Dead Poets Society,1989,128,"Comedy, Drama",8.1,79,492082,95.86,206
+Tonari no Totoro,1988,86,"Animation, Comedy, Family",8.1,86,340454,1.11,172
+Stand by Me,1986,89,"Adventure, Drama",8.1,75,405422,52.29,215
+Platoon,1986,120,"Drama, War",8.1,92,415672,138.53,212
+The Terminator,1984,107,"Action, Sci-Fi",8.1,84,865446,38.40,214
+Gandhi,1982,191,"Biography, Drama, History",8.1,79,232738,52.77,250
+Blade Runner,1982,117,"Action, Drama, Sci-Fi",8.1,84,770398,32.87,176
+The Deer Hunter,1978,183,"Drama, War",8.1,86,340648,48.98,188
+Rocky,1976,120,"Drama, Sport",8.1,70,577025,117.24,211
+Network,1976,121,Drama,8.1,83,160629,,220
+Jaws,1975,124,"Adventure, Thriller",8.1,87,607447,260.00,205
+Barry Lyndon,1975,185,"Adventure, Drama, War",8.1,89,169337,,191
+The Exorcist,1973,122,Horror,8.1,81,409800,232.91,226
+Cool Hand Luke,1967,127,"Crime, Drama",8.1,92,178408,16.22,238
+Persona,1966,85,"Drama, Thriller",8.1,86,119859,,241
+The Sound of Music,1965,172,"Biography, Drama, Family",8.1,63,236132,163.21,242
+La battaglia di Algeri,1966,121,"Drama, War",8.1,96,60858,0.06,230
+Les quatre cents coups,1959,99,"Crime, Drama",8.1,,119009,,239
+Ben-Hur,1959,212,"Adventure, Drama",8.1,90,240317,74.70,182
+Smultronstället,1957,91,"Drama, Romance",8.1,88,108216,,183
+Det sjunde inseglet,1957,96,"Drama, Fantasy",8.1,88,186342,,198
+On the Waterfront,1954,108,"Crime, Drama, Thriller",8.1,91,156162,9.60,178
+The Third Man,1949,104,"Film-Noir, Mystery, Thriller",8.1,97,172666,0.45,185
+The Best Years of Our Lives,1946,170,"Drama, Romance, War",8.1,93,65317,23.65,225
+Rebecca,1940,130,"Drama, Film-Noir, Mystery",8.1,86,138220,4.36,236
+The Grapes of Wrath,1940,129,Drama,8.1,96,94052,0.06,235
+The Wizard of Oz,1939,102,"Adventure, Family, Fantasy",8.1,92,401352,2.08,222
+Mr. Smith Goes to Washington,1939,129,"Comedy, Drama",8.1,73,116439,9.60,195
+It Happened One Night,1934,105,"Comedy, Romance",8.1,87,104917,4.36,243
+The Incredibles,2004,115,"Animation, Action, Adventure",8.0,90,738019,261.44,228
+Aladdin,1992,90,"Animation, Adventure, Comedy",8.0,86,421362,217.35,249
+Life of Brian,1979,94,Comedy,8.0,77,401087,20.05,244
