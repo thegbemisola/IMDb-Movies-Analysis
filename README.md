@@ -32,4 +32,4 @@ The data was explored using basic statistics methods and visualizations.
 ### Conclusion
 The top 250 movies on IMDb are mostly dependent on the ratings which are done by voters(users) compared to the metascore which are done by the metacritics (movie critics).  
 
-Find full report [here].
+Find full report [here](https://drive.google.com/file/d/1ES4RyK3qkRd4t9lH95ZgOsM-VHIOdKYU/view?usp=share_link).
