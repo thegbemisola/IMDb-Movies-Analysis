@@ -1,4 +1,4 @@
-# Top-250-Movies-on-IMDb---A-Web-Scraping-Project
+# IMDb Movies Analysis
 IMDb (Internet Movies Database) is an online database of information related to films, television series, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. IMDb which began as a fan-operated movie database has grown to be one of the most popular and trusted source for tv, movies reviews etc content.
 
 This project explores data of a list of the top 250 movies on IMDb. It seeks to understand the characteristics of these movies / by what criteria IMDb uses to qualify them as 'TOP'.
